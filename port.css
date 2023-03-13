@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.centre{
+    border-radius: 50%;
+    width: 100px;
+
+}
+
+.img_dev{
+    padding: 0;
+    margin: 0;
+}
+
+.about_dev{
+    margin-left: 110px;
+    margin-top: -80px;
+    
+}
+
+.linkdin{
+    width: 25px;
+
+}
+
+.twitter{
+    width: 25px;
+}
+
+.table{
+    
+}
+
+.project{
+    grid-row: 2;
+    grid-column: 3;
+    
+}
